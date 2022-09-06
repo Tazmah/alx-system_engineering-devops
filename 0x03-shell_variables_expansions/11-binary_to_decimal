@@ -1,2 +1,2 @@
 #!/bin/bash
-echo ${D10B[$BINARY]}
+echo $((2#$BINARY))
