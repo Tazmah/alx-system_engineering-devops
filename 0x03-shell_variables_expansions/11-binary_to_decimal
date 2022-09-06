@@ -1,0 +1,2 @@
+#!/bin/bash
+echo ${D10B[$BINARY]}
